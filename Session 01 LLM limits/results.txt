@@ -1,0 +1,17 @@
+﻿short: 2 words -> 4 tokens
+sentence: 8 words -> 14 tokens
+code: 7 words -> 11 tokens
+
+--- temperature 0 ---
+1. As I stood at the edge of the abandoned pier, the wind whipping my hair into a frenzy, I couldn't shake the feeling that the darkness that had claimed my sister's life was still out there, waiting for me.
+2. As I stood at the edge of the abandoned pier, the wind whipping my hair into a frenzy, I couldn't shake the feeling that the darkness that had claimed my sister's life was still out there, waiting for me.
+3. As I stood at the edge of the abandoned pier, the wind whipping my hair into a frenzy, I couldn't shake the feeling that the darkness that had claimed my sister's life was still out there, waiting for me.
+4. As I stood at the edge of the abandoned pier, the wind whipping my hair into a frenzy, I couldn't shake the feeling that the darkness that had claimed my sister's life was still out there, waiting for me.
+5. As I stood at the edge of the abandoned pier, the wind whipping my hair into a frenzy, I couldn't shake the feeling that the darkness that had claimed my sister's life was still out there, waiting for me.
+
+--- temperature 1 ---
+1. As the first light of dawn crept over the sleepy town of Ravenswood, a lone figure in a long, black coat emerged from the shadows, their face obscured by a hood that cast an impenetrable veil over the features that had been the subject of local legend for decades.
+2. As I stepped off the midnight train and onto the mist-shrouded platform, the faint whisper of a woman's voice in the wind seemed to echo an unspeakable truth: I was coming home to death.
+3. As the last wisps of fog lifted off the sleepy town of Ravenswood, Detective James Winter stumbled upon a cryptic message scrawled on the door of the old mansion, where the body of the reclusive millionaire, Edward Blackstone, had been found just hours before.
+4. As I stepped out of the fog-shrouded alleyway, the soft chime of the old clock tower's bells echoed through the deserted streets of Ravenswood, where the silence seemed to be waiting for something - or someone - to shatter it.
+5. It was the morning after the storm, and Emily Windsor awoke to find the face of her missing sister, Catherine, staring back at her from the mirror, her eyes black as coal, and her skin as pale as the winter sky.
