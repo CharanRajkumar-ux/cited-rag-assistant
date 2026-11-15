@@ -1,0 +1,13 @@
+About the job
+Java Developer | Nottingham | Java & Oracle | New Feature Development | Make the world a better place.
+We're working with an established UK software business (one of the shortlists for Great place to work) whose products are deployed across some of the country's most operationally critical organisations. The work contributes directly to public safety. That context matters to the people already in the team, and it tends to matter to the people who join.
+The business has recently restructured its engineering leadership — separating people management from product delivery — and the product this role sits on is firmly in a growth phase. New major customers are onboarding. The roadmap for the next six to twelve months is substantial, and the team is expanding to meet it.
+**The role**
+You'll be working on a well-established product with a live and growing customer base. The work is predominantly new feature development — requirements-driven, tied directly to what customers are asking for. This isn't a maintenance role and the product isn't being wound down; it's one the business is actively investing in.
+Flexibility here is genuine rather than nominal.
+**What you'll do**
+- Develop new features against a customer-driven backlog- Work with product owners on prioritisation and delivery- Contribute to onboarding requirements for major incoming customers- Collaborate with a small, distributed team via regular video calls and occasional in-person sessions
+**What you'll bring**
+- Solid Java development experience- Oracle database skills- Comfort working with established, mature codebases- Self-directed working style suited to a distributed team
+**What's on offer**
+- Hybrid working from Nottingham- Work that has genuine real-world impact- A product in growth, with a long forward roadmap- A team lead structure built around developer progression and support
