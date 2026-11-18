@@ -1,7 +1,7 @@
 import ollama
 
 MODEL = "llama3.2"
-SYSTEM = "You are a helpful, concise assistant."
+SYSTEM = "You are a helpful, concise assistant.If you’re not sure of a fact, say so instead of guessing numbers."
 
 
 def new_history():
