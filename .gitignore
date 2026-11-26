@@ -1,0 +1,9 @@
+# Virtual environment (rebuild with: pip install -r requirements.txt)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Chroma vector database (rebuild with: python session-05/build_index.py)
+chroma_db/
